@@ -23,7 +23,7 @@
     "axios": "^1.6.0",
     "dotenv": "^8.2.0",
     "express": "^4.19.2",
-    "spotify-web-api-node": "^4.0.0"
+    "spotify-web-api-node": "^5.0.2"
   },
   "overrides": {
     "spotify-web-api-node": {
